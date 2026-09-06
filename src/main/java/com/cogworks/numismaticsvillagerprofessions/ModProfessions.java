@@ -9,7 +9,6 @@ import net.minecraft.world.entity.ai.village.poi.PoiType;
 import net.minecraft.world.entity.npc.VillagerProfession;
 import net.minecraft.sounds.SoundEvents;
 import net.neoforged.neoforge.registries.DeferredRegister;
-import dev.ithundxr.createnumismatics.registry.*;
 
 public class ModProfessions {
 
