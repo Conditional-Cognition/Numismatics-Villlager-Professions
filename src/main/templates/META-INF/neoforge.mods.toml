@@ -70,10 +70,3 @@ Example mod description.
     versionRange="${minecraft_version_range}"
     ordering="NONE"
     side="BOTH"
-
-[[dependencies.${mod_id}]]
-    modId="numismatics"
-    type="required"
-    versionRange="[1.1.0,)"
-    ordering="AFTER"
-    side="BOTH"

@@ -1,4 +1,4 @@
 {
-  "entity.minecraft.villager.profession.numismaticsvillagerprofessions.pawner": "Pawner",
-  "entity.minecraft.villager.profession.numismaticsvillagerprofessions.banker": "Banker"
+  "entity.minecraft.villager.numismaticsvillagerprofessions.pawner": "Pawner",
+  "entity.minecraft.villager.numismaticsvillagerprofessions.banker": "Banker"
 }
