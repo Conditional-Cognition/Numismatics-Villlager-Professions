@@ -27,7 +27,8 @@ sourceSets.main.resources {
 }
 
 repositories {
-    // e
+    maven { url = "https://maven.createmod.net" }
+    maven { url = "https://www.cursemaven.com" }
 }
 
 base {
@@ -116,7 +117,7 @@ configurations {
 }
 
 dependencies {
-    // a
+    implementation "curse.maven:numismatics-889722:7948018"
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.
